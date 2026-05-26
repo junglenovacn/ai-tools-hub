@@ -1,0 +1,54 @@
+baseURL = "https://ai-tools-hub.pages.dev/"
+languageCode = "en"
+title = "AI Tools Hub - Best AI Tools Reviews & Tutorials"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  env = "production"
+  description = "Discover the best AI tools, in-depth reviews, tutorials, and comparisons to boost your productivity."
+  author = "AI Tools Hub"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+  [params.homeInfoParams]
+    Title = "Welcome to AI Tools Hub"
+    Content = "Your go-to resource for AI tool reviews, tutorials, and productivity tips."
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "#"
+
+[menu]
+  [[menu.main]]
+    identifier = "reviews"
+    name = "Reviews"
+    url = "/reviews/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tutorials"
+    name = "Tutorials"
+    url = "/tutorials/"
+    weight = 20
+  [[menu.main]]
+    identifier = "comparisons"
+    name = "Comparisons"
+    url = "/comparisons/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
