@@ -2,7 +2,7 @@
 title: "FLUX Kontext Review: The Open-Weight Image Editor That's Giving Midjourney a Run for Its Money"
 date: 2026-05-28
 description: "FLUX Kontext from Black Forest Labs lets you edit images with natural language prompts. We test all three tiers (dev, pro, max) and compare results against Midjourney and GPT-image-1."
-tags: ["flux kontext", "AI image editing", "black forest labs", "image generation", "AI tools"]
+tags: ["AI image generation", "review", "flux", "midjourney", "2026"]
 categories: ["AI Tools", "Image Generation"]
 slug: "flux-kontext-review-2026"
 ---
