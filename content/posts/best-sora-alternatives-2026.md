@@ -1,5 +1,5 @@
 ---
-title: "Best Sora Alternatives in 2026: 8 AI Video Generators That Actually Deliver"
+title: "Best Sora Alternatives in 2026: 8 AI Video Generators Compared"
 date: 2026-05-27
 description: "Looking for the best Sora alternatives in 2026? We tested 8 top AI video generators including Runway Gen-4, Kling AI, and Pika Labs. Full comparison inside."
 tags: ["AI video generation", "best-of", "sora alternatives", "kling", "runway", "pika", "2026"]

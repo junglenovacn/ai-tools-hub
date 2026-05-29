@@ -1,5 +1,5 @@
 ---
-title: "Midjourney vs FLUX vs Ideogram 3.0: Best AI Image Generator (2026 Comparison)"
+title: "Midjourney vs FLUX vs Ideogram 3.0: Best AI Image Generator (2026)"
 date: 2026-05-28
 description: "We tested Midjourney, FLUX, and Ideogram 3.0 with identical prompts. See real side-by-side results, pricing comparison, and our verdict on which wins."
 tags: [AI image generation, comparison, midjourney, flux, ideogram, 2026]
