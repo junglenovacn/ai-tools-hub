@@ -16,7 +16,8 @@ AI Tools Hub
 │   ├── #7 FLUX Kontext Review (评测) ✅
 │   ├── #8 Free AI Image Generators (引流)
 │   ├── #9 Ideogram Tutorial (教程)
-│   └── #10 Midjourney V7 Review (评测)
+│   ├── #10 Midjourney V7 Review (评测)
+│   └── #21 Best AI Image Editing Tools (新支柱扩展)
 │
 ├── 🎬 AI Video (支柱: #11 Sora Alternatives)
 │   ├── #11 Sora Alternatives (时效) ✅
@@ -41,7 +42,7 @@ AI Tools Hub
 | 标签 | 对应文章 |
 |------|----------|
 | `AI coding tools` | #1, #2, #3, #4, #5 |
-| `AI image generation` | #6, #7, #8, #9, #10 |
+| `AI image generation` | #6, #7, #8, #9, #10, #21 |
 | `AI video generation` | #11, #12, #13, #14 |
 | `AI writing tools` | #15, #16, #17 |
 | `AI productivity` | #18, #19, #20 |
@@ -344,6 +345,23 @@ internal_links:
   - /posts/claude-code-vs-cursor-vs-cline-2026/
 ```
 
+### #21 — Best AI Image Editing Tools
+```yaml
+slug: best-ai-image-editing-tools-2026
+title: "9 Best AI Image Editing Tools in 2026 (Free & Paid)"
+description: "We tested 9 AI image editing tools side by side — Canva, Adobe Firefly, Clipdrop, Photoroom and more. See real results, pricing, and our verdict."
+tags: [AI image generation, best-of, canva, adobe-firefly, clipdrop, photoroom, pixlr, free-tools, 2026]
+categories: [AI Tools, Image Generation]
+target_keywords:
+  primary: "best AI image editing tools 2026"
+  secondary: ["AI photo editor free", "AI image editor for beginners", "best AI photo retouching tool"]
+  long_tail: ["canva vs adobe firefly AI editing", "best AI background remover 2026"]
+internal_links:
+  - /posts/midjourney-vs-flux-vs-ideogram-2026/    # 同支柱支柱页
+  - /posts/best-free-ai-image-generators-2026/      # 同为免费工具系列
+  - /posts/flux-kontext-review-2026/                # 同支柱深入
+```
+
 ---
 
 ## 内链策略矩阵
@@ -359,7 +377,7 @@ internal_links:
 | 支柱页 | 目标被链入次数 | 来源文章 |
 |--------|---------------|----------|
 | #1 Cursor vs Copilot vs Windsurf | ≥4 | #2, #3, #4, #5 |
-| #6 Midjourney vs FLUX vs Ideogram | ≥4 | #7, #8, #9, #10 |
+| #6 Midjourney vs FLUX vs Ideogram | ≥5 | #7, #8, #9, #10, #21 |
 | #11 Sora Alternatives | ≥4 | #12, #13, #14, #6 |
 | #15 AI Writing for SEO | ≥3 | #16, #17, #18 |
 | #18 AI Productivity | ≥3 | #19, #20, #16 |
