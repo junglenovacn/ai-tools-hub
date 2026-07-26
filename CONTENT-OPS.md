@@ -2,9 +2,9 @@
 
 > Last updated: 2026-07-20 19:44 CST
 
-## Completed Articles (21/21)
+## Completed Articles (22/22)
 
-All 20 planned articles from SEO-PLAN.md are complete.
+All 20 planned articles + 2 bonus articles from SEO-PLAN.md are complete.
 
 | # | Slug | Status | Date Added |
 |---|------|--------|------------|
@@ -29,6 +29,7 @@ All 20 planned articles from SEO-PLAN.md are complete.
 | 19 | best-ai-tools-students-2026 | ✅ | 2026-07-08 |
 | 20 | notion-ai-vs-clickup-vs-taskade-2026 | ✅ | 2026-07-13 |
 | 21 | best-ai-image-editing-tools-2026 | ✅ | 2026-07-20 |
+| 22 | all-ai-tool-pricing-compared-july-2026 | ✅ (local) | 2026-07-26 |
 
 ## Next Steps / Pending
 
