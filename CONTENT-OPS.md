@@ -1,8 +1,8 @@
 # CONTENT-OPS.md - Content Operations Log
 
-> Last updated: 2026-07-20 19:44 CST
+> Last updated: 2026-08-19 20:32 CST
 
-## Completed Articles (23/23)
+## Completed Articles (24/24)
 
 All 20 planned articles + 3 bonus articles are complete.
 
@@ -31,6 +31,8 @@ All 20 planned articles + 3 bonus articles are complete.
 | 21 | best-ai-image-editing-tools-2026 | ✅ | 2026-07-20 |
 | 22 | all-ai-tool-pricing-compared-july-2026 | ✅ (local) | 2026-07-26 |
 | 23 | best-ai-coding-tools-web-developers-2026 | ✅ (local) | 2026-07-26 |
+| 24 | best-ai-study-tools-college-2026 | ✅ | 2026-08-18 |
+| 25 | best-ai-tools-remote-workers-2026 | ✅ | 2026-08-19 |
 
 ## Next Steps / Pending
 
