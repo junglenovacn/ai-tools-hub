@@ -33,6 +33,7 @@ All 20 planned articles + 3 bonus articles are complete.
 | 23 | best-ai-coding-tools-web-developers-2026 | ✅ (local) | 2026-07-26 |
 | 24 | best-ai-study-tools-college-2026 | ✅ | 2026-08-18 |
 | 25 | best-ai-tools-remote-workers-2026 | ✅ | 2026-08-19 |
+| 26 | best-ai-video-editing-tools-2026 | ✅ (local) | 2026-08-19 |
 
 ## Next Steps / Pending
 
@@ -46,5 +47,6 @@ No remaining articles from the original 20-article plan.
 5. **Seasonal content** — back-to-school, holiday guides
 
 ### Push Status
+- 2026-08-19: #26 committed locally, push failed (GitHub connection reset). Needs retry.
 - 2026-07-26: #23 committed locally, push failed (network issue: `Recall failure: Connection was reset`). Needs retry.
 - 2026-07-13: #19 committed but push failed (network issue). Needs retry.
