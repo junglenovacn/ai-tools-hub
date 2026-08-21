@@ -2,9 +2,9 @@
 
 > Last updated: 2026-08-19 20:32 CST
 
-## Completed Articles (25/24)
+## Completed Articles (28/27)
 
-All 20 planned articles + 5 bonus articles are complete.
+All 20 planned articles + 8 bonus articles are complete.
 
 | # | Slug | Status | Date Added |
 |---|------|--------|------------|
@@ -35,6 +35,7 @@ All 20 planned articles + 5 bonus articles are complete.
 | 25 | best-ai-tools-remote-workers-2026 | ✅ | 2026-08-19 |
 | 26 | best-ai-video-editing-tools-2026 | ✅ (local) | 2026-08-19 |
 | 27 | best-ai-writing-tools-seo-comparison-2026 | ✅ | 2026-08-19 |
+| 28 | best-ai-design-tools-2026 | ✅ | 2026-08-21 |
 
 ## Next Steps / Pending
 
@@ -49,6 +50,7 @@ No remaining articles from the original 20-article plan.
 
 ### Push Status
 - 2026-08-19: #27 committed and pushed ✅
+- 2026-08-21: #28 committed and pushed ✅ (new bonus: AI Design tools category)
 - 2026-08-19: #26 committed and pushed ✅
 - 2026-08-19: #25 committed and pushed ✅
 - 2026-08-18: #24 committed and pushed ✅
