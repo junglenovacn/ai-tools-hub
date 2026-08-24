@@ -48,9 +48,16 @@ No remaining articles from the original 20-article plan.
 4. **Pricing roundup** — e.g., "All AI Tool Pricing Compared (July 2026)"
 5. **Seasonal content** — back-to-school, holiday guides
 
-### Push Status
-- 2026-08-19: #27 committed and pushed ✅
+## Completed Articles (29/28)
+
+| # | Slug | Status | Date Added |
+|---|------|--------|------------|
+| 29 | cursor-vs-claude-code-vs-copilot-vs-devin-vs-continue-2026 | ✅ | 2026-08-24 |
+
+## Push Status
+- 2026-08-24: #29 committed and pushed ✅
 - 2026-08-21: #28 committed and pushed ✅ (new bonus: AI Design tools category)
+- 2026-08-19: #27 committed and pushed ✅
 - 2026-08-19: #26 committed and pushed ✅
 - 2026-08-19: #25 committed and pushed ✅
 - 2026-08-18: #24 committed and pushed ✅
