@@ -36,6 +36,7 @@ All 20 planned articles + 8 bonus articles are complete.
 | 26 | best-ai-video-editing-tools-2026 | ✅ (local) | 2026-08-19 |
 | 27 | best-ai-writing-tools-seo-comparison-2026 | ✅ | 2026-08-19 |
 | 28 | best-ai-design-tools-2026 | ✅ | 2026-08-21 |
+| 32 | best-ai-tools-for-marketers-2026 | ✅ (local) | 2026-08-28 |
 
 ## Next Steps / Pending
 
